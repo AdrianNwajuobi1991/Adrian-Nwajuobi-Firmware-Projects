@@ -1,0 +1,2 @@
+This project is a code for an AVR based Night light That makes use of the Analog to Digital Conversion Hardware.
+I will be posting schematics for how to make this project on a breadboard in the days to come.
